@@ -23,7 +23,7 @@ Two public datasets are merged into a unified corpus of 1,855 records (after ded
 
 | File | Description |
 |---|---|
-| `Using_Data_Science_Methods_in_Cybersecurity_Project_Daniel_Ravikovich.ipynb` | Full Python notebook — data loading, EDA, feature engineering, model training, evaluation, and error analysis |
+| `Using_Data_Science_Methods_in_Cybersecurity_Project_Daniel_Ravikovich.ipynb` | Full Python notebook - data loading, EDA, feature engineering, model training, evaluation, and error analysis |
 | `Project_final.pdf` | PDF report covering all 8 required sections |
 | `README.md` | This file |
 
@@ -32,7 +32,7 @@ Two public datasets are merged into a unified corpus of 1,855 records (after ded
 ## Selected Article
 
 **Title:** Detection of Fake Instagram Accounts via Machine Learning Techniques  
-**Authors:** Chelas, Routis, Roussaki — National Technical University of Athens  
+**Authors:** Chelas, Routis, Roussaki - National Technical University of Athens  
 **Published:** MDPI Computers, November 2024  
 **Link:** https://www.mdpi.com/2073-431X/13/11/296
 
@@ -75,10 +75,10 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 Download the following four files and place them in the same directory as the notebook:
 
-- `fakeAccountData.json` — from InstaFake GitHub
-- `realAccountData.json` — from InstaFake GitHub
-- `train.csv` — from Kaggle
-- `test.csv` — from Kaggle
+- `fakeAccountData.json` - from InstaFake GitHub
+- `realAccountData.json` - from InstaFake GitHub
+- `train.csv` - from Kaggle
+- `test.csv` - from Kaggle
 
 ### Running the Notebook
 

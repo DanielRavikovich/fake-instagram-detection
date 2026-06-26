@@ -2,7 +2,6 @@
 src/models.py
 -------------
 Model definitions and training logic.
-Extracted from the project notebook - same logic, same variable names.
 """
 
 from sklearn.linear_model import LogisticRegression

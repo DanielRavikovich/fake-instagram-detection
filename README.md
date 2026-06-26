@@ -21,7 +21,7 @@ Two public datasets are merged into a unified corpus of 1,855 records (after ded
 ```
 fake-instagram-detection/
 ├── Using_Data_Science_Methods_in_Cybersecurity_Project_Daniel_Ravikovich.ipynb
-├── Project_final.pdf
+├── Project.pdf
 ├── requirements.txt
 ├── download_data.py
 ├── src/

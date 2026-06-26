@@ -2,7 +2,6 @@
 src/preprocessing.py
 --------------------
 Data loading, merging, cleaning, and feature engineering.
-Extracted from the project notebook - same logic, same variable names.
 """
 
 import json
